@@ -1,3 +1,3 @@
-hello_world = "error fix"
+puts "hello_world" 
 
 hello_world
